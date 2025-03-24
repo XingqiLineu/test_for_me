@@ -1,0 +1,4 @@
+firstName,lastName,age,emailId,password,role,accountNumber
+Admin,User,40,admin@example.com,123456,Admin,000000
+Zijie,Zhou,19,234@gmail.com,123,Customer,002345
+Xingqi,Li,18,124@gmail.com,123,Customer,001234

@@ -1,0 +1,5 @@
+transactionId,senderAccountNumber,receiverAccountNumber,amount,dateOfTransaction,type
+4b45b9ae-5cfe-4e7b-a965-b1c4b658c600,BANK,001234,100.0,2023-12-08,Deposit
+ac00dcbc-0c20-4149-a883-37202cbb47e6,001234,BANK,50.0,2023-12-08,Withdraw
+01057467-a4bc-4c5d-bf96-bd5f07659643,001234,002345,30.0,2023-12-08,Transfer Out
+92515429-ab84-4c6e-8dd4-24eaa61a5553,001234,002345,30.0,2023-12-08,Transfer In
